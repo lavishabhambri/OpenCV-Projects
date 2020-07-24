@@ -7,3 +7,4 @@ Includes 3 projects:
 4. Virtual Draw Pen
 5. Nose Draw Filter using Haar Cascade and dlib
 6. Drowsiness and Yawn detection
+7. Instagram Nose Filter
