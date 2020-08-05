@@ -1,5 +1,5 @@
 # OpenCV-Projects
-* OpenCV projects made during Quarantine Period.
+* OpenCV projects made during Quarantine Period!
 * Includes 3 projects:
   1. Text detection
   2. Color detection
