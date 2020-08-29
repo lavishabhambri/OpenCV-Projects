@@ -1,6 +1,6 @@
 # OpenCV-Projects
 * OpenCV projects made during Quarantine Period!
-* Includes 3 projects:
+* Includes projects:
   1. Text detection
   2. Color detection
   3. Invisible cloak problem
